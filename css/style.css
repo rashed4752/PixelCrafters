@@ -436,6 +436,12 @@
     border-right: none;
 }
 
+/** Customize Css **/
+
 .row.g-5 {
     margin: 0;
+}
+
+.col-12.d-flex {
+    align-items: center;
 }
