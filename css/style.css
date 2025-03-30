@@ -435,3 +435,7 @@
     padding-right: 0;
     border-right: none;
 }
+
+.row.g-5 {
+    margin: 0;
+}
