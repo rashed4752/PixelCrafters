@@ -445,3 +445,7 @@
 .col-12.d-flex {
     align-items: center;
 }
+
+.align_centerr {
+    justify-content: center;
+}
